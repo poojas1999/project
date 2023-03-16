@@ -1,0 +1,174 @@
+.card{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.myDiv {
+    border: 1px ;
+    background-color:mintcream;    
+    text-align: center;
+    padding-left: 20px;
+    height: 100px ;
+    width: 800px;
+    position: absolute;
+    top: 150px;
+  right: 50px;
+  text-align: left;
+  }
+  .code{
+    position: absolute;
+    top: 280px;
+  right: 60px;
+  left: 520px;
+  }
+  .color{
+    position: absolute;
+    top: 280px;
+  right: 60px;
+  left: 900px;
+  }
+  .button {
+    background-color:darkgray;
+    border: none;
+    color:black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 1px;
+   
+  }
+  .button{
+    border-radius: 70%;
+    width: 50px;
+  }
+  .size{
+    position: absolute;
+    top: 340px;
+  right: 60px;
+  left: 520px;
+  }
+  .bposition{
+    position: absolute;
+    top: 330px;
+  right: 60px;
+  left: 650px;
+  }
+  .bposition1{
+    position: absolute;
+    top: 330px;
+  right: 60px;
+  left: 720px;
+  }
+  .bposition2{
+    position: absolute;
+    top: 330px;
+  
+  left: 790px;
+  }
+  .bposition3{
+    position: absolute;
+    top: 330px;
+  
+  left: 790px;
+  }
+  .bposition4{
+    position: absolute;
+    top: 330px;
+  
+  left: 860px;
+  }
+  .rent{
+    position: absolute;
+    top: 400px;
+  right: 60px;
+  left: 520px;
+  }
+ 
+  .day{
+    position: absolute;
+    top: 450px;
+  right: 60px;
+  left: 560px;
+  }
+  .day1{
+    position: absolute;
+    top: 450px;
+  right: 60px;
+  left: 640px;
+  }
+  .day2{
+    position: absolute;
+    top: 450px;
+  right: 60px;
+  left: 720px;
+  }
+  .day3{
+    position: absolute;
+    top: 450px;
+  right: 60px;
+  left: 800px;
+  }
+  .form-check1{
+    position: absolute;
+    top: 480px;
+    left:570px;
+  }
+  .form-check2{
+    position: absolute;
+    top: 480px;
+    left:660px;
+  }
+  .form-check3{
+    position: absolute;
+    top: 480px;
+    left:740px;
+  }
+  .form-check4{
+    position: absolute;
+    top: 480px;
+    left:820px;
+  }
+  .event{
+    position: absolute;
+    top: 530px;
+  right: 60px;
+  left: 520px;
+  }
+  .date{
+    position: absolute;
+    top: 530px;
+  right: 60px;
+  left: 680px;
+   color:darkgray;
+  }
+  .btn-dark2{
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    font-size: 15px;
+    padding: 5px 20px;
+    position: absolute;
+    left: 1100px;
+    top: 620px;
+    width: 120px;
+    height: 40px;
+   
+}
+.rup{
+position: absolute;
+    top: 150px;
+  right: 90px;
+}
+.rup1{
+  position: absolute;
+      top: 180px;
+    right: 120px;
+  }
+  .rup2{
+    position: absolute;
+        top: 210px;
+      right: 90px;
+      font-size: small;
+    }

@@ -1,0 +1,18 @@
+<body style="background-image:url(https://i.pinimg.com/564x/a7/f9/1e/a7f91e969a2c2f243f52f9231a018ae5.jpg) ">
+    <div class="container" >
+        <div class="row">
+          <div class="col" *ngFor="let item of gowns">
+            
+          <div class="card" style="width: 15rem;">
+              <img src="{{item.image}}" class="card-img-top" alt="..." height="250px" width="15px">
+              <div class="card-body">
+                <h5 class="card-title">{{item.name}}</h5>
+                <p class="card-text">{{item.details}}</p>
+                <a (click)="more(item.name)" class="btn btn-primary">RENT NOW</a>
+              </div>
+            </div>
+            </div>
+            </div>
+      </div>
+    </body>
+    
